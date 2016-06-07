@@ -2,9 +2,8 @@
 title: Welcome BackPack
 email: Joseph@corestaffing.us
 descrption: > # this means to ignore newlines until "baseurl:"
-welcomebackpack will provide a BackPack full of hope to returning citizens.
-baseurl: "/home/" # the subpath of your site, e.g. /blog/
-url: "www.welcomebackpack.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://josephcureton.github.io/welcome-back-pack" # the base hostname & protocol for your site
 
 # User setting
 owner: Joseph Cureton
@@ -13,8 +12,8 @@ facebook_username:
 twitter_username:
 github_username: josephcureton
 address:
-  - line:
-  - line:
+  - line: "10 East North Ave Suite 500" 
+  - line: "Baltinore Maryland 21202"
   # Feel free to add more lines here 
 telephone: 443.704.4635
 copyright:
